@@ -36,13 +36,14 @@ A passionate Full Stack Developer focused on building end-to-end applications, r
 
 Plataforma empresarial diseñada e implementada para la automatización, sincronización y gestión de servicios de Social Media Marketing (SMM), conectando flujos de trabajo web con una aplicación móvil dedicada para los operarios.
 
-**Retos técnicos resueltos:**
+**Retos técnicos resuelvos:**
 * ⚙️ **Sincronización Automatizada:** Optimización de tareas programadas y sincronización de órdenes en tiempo real entre el backend y los dispositivos móviles de los trabajadores.
-* 📦 **Despliegue Multi-contenedor:** Arquitectura estructurada utilizando Docker y Docker Compose para aislar y mantener estables la API en producción, la base de datos y el servidor web (Nginx).
+* 🌐 **Despliegue y Enrutamiento en VPS:** Configuración y administración del servidor en un Droplet de DigitalOcean, gestionando el entorno de producción directamente sobre Linux.
+* 🔀 **Orquestación con Nginx:** Configuración avanzada de Nginx como servidor web y proxy inverso, estructurando el backend y el frontend de forma independiente en rutas y directorios del sistema aislados para optimizar el rendimiento y la seguridad.
 * 🛡️ **Seguridad y Flujos Críticos:** Implementación de autenticación segura basada en JWT/2FA y optimización de consultas complejas en MySQL para mantener la consistencia de los datos bajo alta demanda.
 
 **Logos de las Tecnologías Principales Utilizadas:**
-![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
