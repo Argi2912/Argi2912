@@ -7,7 +7,7 @@ A passionate Full Stack Developer focused on building end-to-end applications, r
 ### 👤 About Me
 
 * 🚀 **Full Stack Expert** – Building scalable cross-platform apps with clean, maintainable code.
-* 🖥️ **Backend Architect** – Expert in robust APIs, database optimization, and secure multi-container environments.
+* 🖥️ **Backend Architect** – Expert in robust APIs, database optimization, and secure environments.
 * 🌐 **Frontend Focused** – Crafting responsive interfaces and interactive 3D web environments.
 * 📱 **Mobile Developer** – Experienced in creating high-performance, native-like mobile experiences.
 
@@ -31,39 +31,39 @@ A passionate Full Stack Developer focused on building end-to-end applications, r
 
 ### 🗂️ Featured Projects
 
-#### RedViral – Plataforma de Automatización SMM
-**Desarrollo a Medida para Cliente Corporativo**
+#### RedViral – SMM Automation Platform
+**Custom Development for Corporate Client**
 
-Plataforma empresarial diseñada e implementada para la automatización, sincronización y gestión de servicios de Social Media Marketing (SMM), conectando flujos de trabajo web con una aplicación móvil dedicada para los operarios.
+An enterprise platform designed and implemented for the automation, synchronization, and management of Social Media Marketing (SMM) services, connecting web workflows with a dedicated mobile application for internal workers.
 
-**Retos técnicos resuelvos:**
-* ⚙️ **Sincronización Automatizada:** Optimización de tareas programadas y sincronización de órdenes en tiempo real entre el backend y los dispositivos móviles de los trabajadores.
-* 🌐 **Despliegue y Enrutamiento en VPS:** Configuración y administración del servidor en un Droplet de DigitalOcean, gestionando el entorno de producción directamente sobre Linux.
-* 🔀 **Orquestación con Nginx:** Configuración avanzada de Nginx como servidor web y proxy inverso, estructurando el backend y el frontend de forma independiente en rutas y directorios del sistema aislados para optimizar el rendimiento y la seguridad.
-* 🛡️ **Seguridad y Flujos Críticos:** Implementación de autenticación segura basada en JWT/2FA y optimización de consultas complejas en MySQL para mantener la consistencia de los datos bajo alta demanda.
+**Technical Challenges Solved:**
+* ⚙️ **Automated Synchronization:** Optimization of scheduled tasks and real-time order synchronization between the backend and workers' mobile devices.
+* 🌐 **VPS Deployment & Routing:** Server configuration and management on a DigitalOcean Droplet, administering the production environment directly on bare Linux.
+* 🔀 **Nginx Orchestration:** Advanced configuration of Nginx as a web server and reverse proxy, structuring the backend and frontend independently into isolated system paths and directories to optimize performance and security.
+* 🛡️ **Security & Critical Flows:** Implementation of secure authentication based on JWT/2FA and optimization of complex MySQL queries to maintain data consistency under heavy demand.
 
-**Logos de las Tecnologías Principales Utilizadas:**
+**Main Technologies Used:**
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white) ![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
-#### 💻 Interfaz Web (Panel de Administración y Login)
+#### 💻 Web Interface (Admin Dashboard & Login)
 
-Demostración de la plataforma web responsiva para la gestión de la red.
+Demonstration of the responsive web platform for network management.
 
-| Pantalla de Inicio de Sesión Web | Dashboard de Administración |
+| Web Login Screen | Admin Dashboard |
 |---|---|
-| <img src="assets/images/Login-Web.png" width="400" alt="Inicio de Sesión Web RedViral"> | <img src="assets/images/Dashboard-Web.jpg" width="400" alt="Dashboard de Administración Web RedViral"> |
+| <img src="assets/images/Login-Web.png" width="400" alt="RedViral Web Login"> | <img src="assets/images/Dashboard-Web.jpg" width="400" alt="RedViral Web Admin Dashboard"> |
 
 ---
 
-#### 📱 Aplicación Móvil (Login y Gestión de Tareas)
+#### 📱 Mobile Application (Login & Task Management)
 
-Vistas de la aplicación nativa para usuarios finales, enfocada en la facilidad de uso y la gestión de tareas diarias.
+Views of the native application built for internal workers, focused on usability and daily task processing.
 
-| Pantalla de Bienvenida y Login Móvil | Listado de Tareas Pendientes |
+| Mobile Welcome & Login Screen | Pending Tasks List |
 |---|---|
-| <img src="assets/images/App-Login.jpeg" width="400" alt="Inicio de Sesión Móvil RedViral"> | <img src="assets/images/App_Task.jpeg" width="400" alt="Listado de Tareas Móvil RedViral"> |
+| <img src="assets/images/App-Login.jpeg" width="400" alt="RedViral Mobile Login"> | <img src="assets/images/App_Task.jpeg" width="400" alt="RedViral Mobile Tasks List"> |
 
 ---
 
