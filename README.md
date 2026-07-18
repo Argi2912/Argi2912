@@ -1,42 +1,56 @@
-# ¡Hola! Soy Argimiro Rodriguez 👋
-### Full Stack Engineer & Digital Architect
+# Hey 👋, Full Stack Engineer & Digital Architect here
 
-Ingeniero de Software enfocado en el desarrollo de aplicaciones de extremo a extremo (End-to-End). Mi especialidad es diseñar arquitecturas backend robustas, optimizar el rendimiento de bases de datos relacionales/no relacionales y construir interfaces web y móviles dinámicas, escalables y seguras.
-
----
-
-### 🛠️ Tecnologías y Stack Profesional
-
-#### 🖥️ Backend & Infraestructura
-* **Lenguajes:** 
-  ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-* **Frameworks:** 
-  ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-* **Bases de Datos & Caché:** 
-  ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-* **DevOps & Entornos:** 
-  ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-* **Seguridad & Arquitectura:** 
-  `REST APIs` `WebSockets` `2FA / JWT` `Stored Procedures`
-
-#### 🌐 Frontend & Web
-* **Frameworks & Librerías:** 
-  ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) `Three.js / TresJS`
-* **Estilos & Maquetación:** 
-  ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 📱 Mobile Development
-* **Framework & Lenguaje:** 
-  ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+A passionate Full Stack Developer focused on building end-to-end applications, robust architectures, and scalable digital ecosystems.
 
 ---
 
-### 🚀 Filosofía de Trabajo
-* **Código Limpio & Escalable:** Aplicación de buenas prácticas, patrones de diseño y modularidad en entornos multi-container.
-* **Optimización Orientada al Negocio:** Reducción de latencia en consultas complejas, manejo eficiente de colas de procesos en segundo plano e integraciones seguras con pasarelas de pago.
+### 👤 About Me
+
+* 🚀 **Full Stack Expert** – Building scalable cross-platform apps with clean, maintainable code.
+* 🖥️ **Backend Architect** – Expert in robust APIs, database optimization, and secure multi-container environments.
+* 🌐 **Frontend Focused** – Crafting responsive interfaces and interactive 3D web environments.
+* 📱 **Mobile Developer** – Experienced in creating high-performance, native-like mobile experiences.
 
 ---
 
-📫 **¿Cómo contactarme?**
-*   **LinkedIn:** [argijrr](https://www.linkedin.com/in/argijr)
-*   **Email:** argimirojrodriguezrr@gmail.com
+### 🛠️ Technologies & Tools
+
+#### Backend & Database
+![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+#### Frontend Development
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+#### Mobile Development
+![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+#### Tools & Others
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🗂️ Featured Projects
+
+#### RedViral – Plataforma SMM & Panel multi-tenant
+**Desarrollado como Proyecto SaaS Principal**
+
+Esta plataforma permite la automatización y gestión de servicios de Social Media Marketing (SMM), utilizando una arquitectura robusta y escalable.
+
+**Retos técnicos resueltos:**
+* ⚙️ **Orquestación Multi-tenant:** Implementación de aislamiento estricto de datos por cliente (inquilino) a nivel de base de datos para garantizar la seguridad y privacidad.
+* 📦 **Despliegue Multi-contenedor:** Arquitectura optimizada utilizando Docker y Docker Compose para separar la API, la base de datos y el servidor web (Nginx) en contenedores independientes.
+* 🛡️ **Seguridad Avanzada:** Manejo seguro de autenticación de usuarios mediante JWT/2FA e integraciones robustas con APIs de terceros.
+
+**Logos de las Tecnologías Principales Utilizadas:**
+![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Capturas de Pantalla:**
+| Dashboard de Administrador | Vista de Panel del Cliente |
+|---|---|
+| <img src="URL_DE_TU_CAPTURA_dashboard" width="400" alt="Captura del Dashboard de RedViral"> | <img src="URL_DE_TU_CAPTURA_panel_cliente" width="400" alt="Captura del Panel de Cliente de RedViral"> |
+
+---
+
+📫 **How to reach me:**
+* **LinkedIn:** [argijrr](https://www.linkedin.com/in/argijr)
+* **Email:** argimirojrodriguezrr@gmail.com
