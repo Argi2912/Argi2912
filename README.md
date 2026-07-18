@@ -52,7 +52,7 @@ Demostración de la plataforma web responsiva para la gestión de la red.
 
 | Pantalla de Inicio de Sesión Web | Dashboard de Administración |
 |---|---|
-| <img src="assets/images/Login-Web.png" width="400" alt="Inicio de Sesión Web RedViral"> | <img src="assets/images/Admin-Web.png" width="400" alt="Dashboard de Administración Web RedViral"> |
+| <img src="assets/images/Login-Web.png" width="400" alt="Inicio de Sesión Web RedViral"> | <img src="assets/images/Dashboard-Web.jpg" width="400" alt="Dashboard de Administración Web RedViral"> |
 
 ---
 
@@ -62,7 +62,7 @@ Vistas de la aplicación nativa para usuarios finales, enfocada en la facilidad 
 
 | Pantalla de Bienvenida y Login Móvil | Listado de Tareas Pendientes |
 |---|---|
-| <img src="assets/images/Login-Mvil.png" width="400" alt="Inicio de Sesión Móvil RedViral"> | <img src="assets/images/Task-View.png" width="400" alt="Listado de Tareas Móvil RedViral"> |
+| <img src="assets/images/App-Login.jpeg" width="400" alt="Inicio de Sesión Móvil RedViral"> | <img src="assets/images/App_Task.jpeg" width="400" alt="Listado de Tareas Móvil RedViral"> |
 
 ---
 
