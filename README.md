@@ -44,10 +44,25 @@ Esta plataforma permite la automatización y gestión de servicios de Social Med
 **Logos de las Tecnologías Principales Utilizadas:**
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Capturas de Pantalla:**
-| Dashboard de Administrador | Vista de Panel del Cliente |
+---
+
+#### 💻 Interfaz Web (Panel de Administración y Login)
+
+Demostración de la plataforma web responsiva para la gestión de la red.
+
+| Pantalla de Inicio de Sesión Web | Dashboard de Administración |
 |---|---|
-| <img src="URL_DE_TU_CAPTURA_dashboard" width="400" alt="Captura del Dashboard de RedViral"> | <img src="URL_DE_TU_CAPTURA_panel_cliente" width="400" alt="Captura del Panel de Cliente de RedViral"> |
+| <img src="assets/images/Login-Web.png" width="400" alt="Inicio de Sesión Web RedViral"> | <img src="assets/images/Admin-Web.png" width="400" alt="Dashboard de Administración Web RedViral"> |
+
+---
+
+#### 📱 Aplicación Móvil (Login y Gestión de Tareas)
+
+Vistas de la aplicación nativa para usuarios finales, enfocada en la facilidad de uso y la gestión de tareas diarias.
+
+| Pantalla de Bienvenida y Login Móvil | Listado de Tareas Pendientes |
+|---|---|
+| <img src="assets/images/Login-Mvil.png" width="400" alt="Inicio de Sesión Móvil RedViral"> | <img src="assets/images/Task-View.png" width="400" alt="Listado de Tareas Móvil RedViral"> |
 
 ---
 
